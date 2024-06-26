@@ -6,7 +6,7 @@
 This repository is showing a decision tree classifier to predict whether a customer will deposit an amount or not based on their demographic and behavioral data. 
 
 ## DATASET
-The  dataset consists of 11162 rows and 17 columns. 
+The https://github.com/JasnaNC/PRODIGY_DS_03/blob/main/Bankdata.csv dataset consists of 11162 rows and 17 columns. 
 The 17 features are:
 Here's an explanation of the 17 features in the Bank Marketing dataset:
 
